@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yEuNMbh1hlDlZH0MH/vRPrFg9w1GlvWYK8MOpTbYrdgkr2tgI4ZOH/JfpMLmGlthiLDubmUk8D5cwNY7RWIAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Science\\Levitation\\GitHubRepository\\GyroscopeLiftForce\\GyroscopeLevitationDataAnalysis\\DataSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjqui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\cjqui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cjqui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cjqui\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

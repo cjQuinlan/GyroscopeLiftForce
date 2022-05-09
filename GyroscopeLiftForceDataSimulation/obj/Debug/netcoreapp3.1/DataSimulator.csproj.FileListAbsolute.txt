@@ -1,0 +1,14 @@
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.exe
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.deps.json
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.runtimeconfig.json
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.runtimeconfig.dev.json
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.dll
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\bin\Debug\netcoreapp3.1\DataSimulator.pdb
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.csproj.AssemblyReference.cache
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.AssemblyInfoInputs.cache
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.AssemblyInfo.cs
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.csproj.CoreCompileInputs.cache
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.dll
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.pdb
+D:\Science\Levitation\GitHubRepository\GyroscopeLiftForce\GyroscopeLevitationDataAnalysis\obj\Debug\netcoreapp3.1\DataSimulator.genruntimeconfig.cache
